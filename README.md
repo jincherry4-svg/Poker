@@ -25,8 +25,8 @@
 | 一對 | 1 |
 
 ## 執行截圖
-> **請在這裡貼上你的程式執行畫面截圖** (在 GitHub 上傳圖片後將路徑替換至下方)
-![遊戲執行畫面](你的截圖路徑或檔名.png)
+<img width="1190" height="648" alt="image" src="https://github.com/user-attachments/assets/06dce7e3-217d-40b9-aca3-6c734abccabd" />
+
 
 ## 如何執行
 1. 下載本專案原始碼。
